@@ -1,0 +1,428 @@
+
+#EXTINF:-1 tvg-id="la1.es" tvg-name="SP - LA 1 HD*" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA1HD.png" group-title="EU | SPAIN",SP - LA 1 HD*
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21367
+#EXTINF:-1 tvg-id="la2.es" tvg-name="SP - LA 2*" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="EU | SPAIN",SP - LA 2*
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21366
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="SP - ANTENA 3 HD*" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="EU | SPAIN",SP - ANTENA 3 HD*
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21364
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="SP - CUATRO HD*" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD-1.png" group-title="EU | SPAIN",SP - CUATRO HD*
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21363
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="SP - TELECINCO HD*" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TELECINCOHD.png" group-title="EU | SPAIN",SP - TELECINCO HD*
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21362
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="SP - LA SEXTA HD*" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LASEXTAHD.png" group-title="EU | SPAIN",SP - LA SEXTA HD*
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21365
+#EXTINF:-1 tvg-id="" tvg-name="SP - FDF" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FDF.png" group-title="EU | SPAIN",SP - FDF
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21358
+#EXTINF:-1 tvg-id="energy.es" tvg-name="SP - ENERGY" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ENERGY.png" group-title="EU | SPAIN",SP - ENERGY
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21323
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="SP - DIVINITY" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DIVINTY.png" group-title="EU | SPAIN",SP - DIVINITY
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21324
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="SP - MEGA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MEGAHD.png" group-title="EU | SPAIN",SP - MEGA HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/64740
+#EXTINF:-1 tvg-id="neox.es" tvg-name="SP - NEOX" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NEOX.png" group-title="EU | SPAIN",SP - NEOX
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21281
+#EXTINF:-1 tvg-id="nova.es" tvg-name="SP - NOVA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NOVA.png" group-title="EU | SPAIN",SP - NOVA
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/43001
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="SP - 24 HORAS" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANA24HORAS.png" group-title="EU | SPAIN",SP - 24 HORAS
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21360
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="SP - CANAL 24 HORAS" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANA24HORAS.png" group-title="EU | SPAIN",SP - CANAL 24 HORAS
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21361
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="SP - CANAL SUR" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="EU | SPAIN",SP - CANAL SUR
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21329
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="SP - TVE INTERNACIONAL" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="EU | SPAIN",SP - TVE INTERNACIONAL
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21359
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="SP - CLAN TVE" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANTVE.png" group-title="EU | SPAIN",SP - CLAN TVE
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21357
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="SP - IBERALIA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/IBERALIA.png" group-title="EU | SPAIN",SP - IBERALIA
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21355
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - NINOS #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",##### SP - NINOS #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21354
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="SP - BABY TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BABYTV.png" group-title="EU | SPAIN",SP - BABY TV
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21353
+#EXTINF:-1 tvg-id="boing.es" tvg-name="SP - BOING" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BOING.png" group-title="EU | SPAIN",SP - BOING
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21352
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="SP - CANAL PANDA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALPANDA.png" group-title="EU | SPAIN",SP - CANAL PANDA
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21351
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="SP - DISNEY CH HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYHD.png" group-title="EU | SPAIN",SP - DISNEY CH HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/85235
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="SP - DISNEY JR" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYJR.png" group-title="EU | SPAIN",SP - DISNEY JR
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21348
+#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="SP - DISNEY XD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYXD.png" group-title="EU | SPAIN",SP - DISNEY XD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21347
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="SP - NICKELODEON  HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NICKELODEONHD.png" group-title="EU | SPAIN",SP - NICKELODEON  HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21346
+#EXTINF:-1 tvg-id="" tvg-name="SP - DISNEY+" tvg-logo="http://212.8.253.112/logo/EUROPE/FRANCE/DISNEYCHANNEL.png" group-title="EU | SPAIN",SP - DISNEY+
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/104876
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - CINE #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",##### SP - CINE #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21274
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="SP -  ATRESERIES HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/Atreseries.png" group-title="EU | SPAIN",SP -  ATRESERIES HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/131162
+#EXTINF:-1 tvg-id="amc.es" tvg-name="SP - AMC HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AMCHD.png" group-title="EU | SPAIN",SP - AMC HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21340
+#EXTINF:-1 tvg-id="axn.es" tvg-name="SP - AXN" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AXN.png" group-title="EU | SPAIN",SP - AXN
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21338
+#EXTINF:-1 tvg-id="axn.es" tvg-name="SP - AXN HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AXN.png" group-title="EU | SPAIN",SP - AXN HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21337
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="SP - AXN WHITE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AXN.png" group-title="EU | SPAIN",SP - AXN WHITE HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21336
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="SP - CALLE 13 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CALLE13HD.png" group-title="EU | SPAIN",SP - CALLE 13 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21333
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="SP - COSMO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/COSMOHD.png" group-title="EU | SPAIN",SP - COSMO HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21326
+#EXTINF:-1 tvg-id="fox.es" tvg-name="SP - FOX HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FOCHD.png" group-title="EU | SPAIN",SP - FOX HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21344
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="SP - FOX LIFE HD" tvg-logo="http://212.8.253.112/logo/SPAIN/FOXLIFEHD.png" group-title="EU | SPAIN",SP - FOX LIFE HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21343
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="SP - HOLLYWOOD HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/HOLLYWOODHD.png" group-title="EU | SPAIN",SP - HOLLYWOOD HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21356
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="SP - COMEDY CENTRAL HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/comedycentralhd.png" group-title="EU | SPAIN",SP - COMEDY CENTRAL HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/73070
+#EXTINF:-1 tvg-id="#0.es" tvg-name="SP - M. ACCION HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.ACCI%A9NHD.png" group-title="EU | SPAIN",SP - M. ACCION HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21306
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="SP - M. CINE ESP" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.CINE-ESPA%C6OL.png" group-title="EU | SPAIN",SP - M. CINE ESP
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21305
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="SP - M.CineDoc&Roll" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/Cinedocroll.png" group-title="EU | SPAIN",SP - M.CineDoc&Roll
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/55141
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="SP - M. COMEDIA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.COMEDIA.png" group-title="EU | SPAIN",SP - M. COMEDIA HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21304
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="SP - M. ESTRENOS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.ESTRENOS.png" group-title="EU | SPAIN",SP - M. ESTRENOS HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21301
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SP - SYFY HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SYFY.png" group-title="EU | SPAIN",SP - SYFY HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21279
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="SP - TCM HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TMCHD.png" group-title="EU | SPAIN",SP - TCM HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21278
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="SP - TNT HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TNTHD-1.png" group-title="EU | SPAIN",SP - TNT HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21277
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - SPORTS #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",##### SP - SPORTS #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21322
+#EXTINF:-1 tvg-id="" tvg-name="SP - BAR TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BARTV.png" group-title="EU | SPAIN",SP - BAR TV
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76568
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="SP - EUROSPORT 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EU | SPAIN",SP - EUROSPORT 1
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76688
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="SP - EUROSPORT 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EU | SPAIN",SP - EUROSPORT 1 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76689
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="SP - EUROSPORT 2" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EU | SPAIN",SP - EUROSPORT 2
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76687
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="SP - FORMULA 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="EU | SPAIN",SP - FORMULA 1 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76693
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="SP - M. FORMULA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="EU | SPAIN",SP - M. FORMULA 1
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76692
+#EXTINF:-1 tvg-id="gol.es" tvg-name="SP - GOL" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/GOL0.png" group-title="EU | SPAIN",SP - GOL
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76690
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="SP - LA LIGA 123 TV HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LALIGA123HDTV.png" group-title="EU | SPAIN",SP - LA LIGA 123 TV HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76694
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="SP - BEIN LALIGA HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/BEIN-SPORTS-1.png" group-title="EU | SPAIN",SP - BEIN LALIGA HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76718
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="SP - LA LIGA TV BAR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LALIGAHD.png" group-title="EU | SPAIN",SP - LA LIGA TV BAR HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76696
+#EXTINF:-1 tvg-id="movistarmotogp.es" tvg-name="SP - MOTOGP HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MOTOGPHD.png" group-title="EU | SPAIN",SP - MOTOGP HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76698
+#EXTINF:-1 tvg-id="" tvg-name="SP - DAZN 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="EU | SPAIN",SP - DAZN 1 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/141393
+#EXTINF:-1 tvg-id="" tvg-name="SP - DAZN 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/ITALY/DAZNSPORT1.png" group-title="EU | SPAIN",SP - DAZN 2 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/141394
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="SP - BEINLALIGA1 HD" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/BEIN-SPORTS-1.png" group-title="EU | SPAIN",SP - BEINLALIGA1 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76699
+#EXTINF:-1 tvg-id="" tvg-name="SP - M.WIMBLEDON HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MOVISTAR-PLUS.png" group-title="EU | SPAIN",SP - M.WIMBLEDON HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76710
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="SP - M. GOLF HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MGOLFHD.png" group-title="EU | SPAIN",SP - M. GOLF HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76708
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="SP - M L CAMPEONES HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.LCAMPEONES.png" group-title="EU | SPAIN",SP - M L CAMPEONES HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76706
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="SP - M L CAMPEONES 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.LCAMPEONES.png" group-title="EU | SPAIN",SP - M L CAMPEONES 1 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/82582
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="SP - R. MADRID TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/R.MADRID.png" group-title="EU | SPAIN",SP - R. MADRID TV
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76705
+#EXTINF:-1 tvg-id="toros.es" tvg-name="SP - TOROS HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TOROSHD.png" group-title="EU | SPAIN",SP - TOROS HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76703
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="SP - M.DEPORTES1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MOVISTAR-PLUS.png" group-title="EU | SPAIN",SP - M.DEPORTES1 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76711
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - DEPORTES #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",##### SP - DEPORTES #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21294
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="SP - TELE DEPORTE" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TELEDEPORTE.png" group-title="EU | SPAIN",SP - TELE DEPORTE
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21291
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - ENTRETENIMIENTO  #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",##### SP - ENTRETENIMIENTO  #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21345
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="SP - BLAZE" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BLAZE.png" group-title="EU | SPAIN",SP - BLAZE
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21334
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="SP - CANAL COCINA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALCOCINA.png" group-title="EU | SPAIN",SP - CANAL COCINA
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21332
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="SP - CANAL DECASA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALDECASA-1.png" group-title="EU | SPAIN",SP - CANAL DECASA
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21331
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="SP - CAZA Y PESCA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CAZAYPESCAHD.png" group-title="EU | SPAIN",SP - CAZA Y PESCA HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21328
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="SP - CRIMEN Y INVES" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CRIMENYINVES.png" group-title="EU | SPAIN",SP - CRIMEN Y INVES
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21325
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="SP - FOX NEWS" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FOCNEWS.png" group-title="EU | SPAIN",SP - FOX NEWS
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21342
+#EXTINF:-1 tvg-id="#0.es" tvg-name="SP - 0 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/OHD.png" group-title="EU | SPAIN",SP - 0 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21341
+#EXTINF:-1 tvg-id="" tvg-name="SP - ARAGON" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="EU | SPAIN",SP - ARAGON
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21339
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="SP - BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="EU | SPAIN",SP - BE MAD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21335
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="SP - CANAL ODISEA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALODISEA.png" group-title="EU | SPAIN",SP - CANAL ODISEA
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21330
+#EXTINF:-1 tvg-id="" tvg-name="SP - CLASSICA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CLASSICA.png" group-title="EU | SPAIN",SP - CLASSICA
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21327
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - MOVIESTAR #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",##### SP - MOVIESTAR #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21307
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="SP - M.DRAMA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.DRAMA.png" group-title="EU | SPAIN",SP - M.DRAMA HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21303
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="SP - M. SERIES HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.SERIES.png" group-title="EU | SPAIN",SP - M. SERIES HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21297
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="SP - M.SERIESMANIA HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.SERIESXTRA.png" group-title="EU | SPAIN",SP - M.SERIESMANIA HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21296
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="SP - M.CINEDOC&ROLL HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.XTRA.png" group-title="EU | SPAIN",SP - M.CINEDOC&ROLL HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21295
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - MUSICA #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",##### SP - MUSICA #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21290
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="SP - MEZZO LIVE HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MEZZOLIVEHD.png" group-title="EU | SPAIN",SP - MEZZO LIVE HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21289
+#EXTINF:-1 tvg-id="MTV.es" tvg-name="SP - MTV ROCKS" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTVROCKS.png" group-title="EU | SPAIN",SP - MTV ROCKS
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21287
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - CULTURA #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",##### SP - CULTURA #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21286
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="SP - DISCOVERY" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISCOVERY.png" group-title="EU | SPAIN",SP - DISCOVERY
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21285
+#EXTINF:-1 tvg-id="historia.es" tvg-name="SP - HISTORIA" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/HISTORIA.png" group-title="EU | SPAIN",SP - HISTORIA
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21315
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="SP - NAT GEO HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NATGEOHD.png" group-title="EU | SPAIN",SP - NAT GEO HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21284
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="SP - NAT GEO WILD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NATGEOWILD.png" group-title="EU | SPAIN",SP - NAT GEO WILD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21283
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="SP - NAT WILD HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NATGEOWILD.png" group-title="EU | SPAIN",SP - NAT WILD HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21282
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="SP - PARAMOUNT" tvg-logo="http://212.8.253.112/logo/AMERICA/USA/SPIKEPARAMOUNT.png" group-title="EU | SPAIN",SP - PARAMOUNT
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21280
+#EXTINF:-1 tvg-id="" tvg-name="SP - VH1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/VH1.png" group-title="EU | SPAIN",SP - VH1
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21276
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="SP - VIAJAR HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/VIAJARHD.png" group-title="EU | SPAIN",SP - VIAJAR HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21275
+#EXTINF:-1 tvg-id="" tvg-name="##### SP - ALQUILER #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",##### SP - ALQUILER #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/21272
+#EXTINF:-1 tvg-id="Alquiler.es" tvg-name="SP - ALQUILER 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 1
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69257
+#EXTINF:-1 tvg-id="Alquiler2.es" tvg-name="SP - ALQUILER 2" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 2
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69258
+#EXTINF:-1 tvg-id="Alquiler3.es" tvg-name="SP - ALQUILER 3" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 3
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69259
+#EXTINF:-1 tvg-id="Alquiler4.es" tvg-name="SP - ALQUILER 4" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 4
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69260
+#EXTINF:-1 tvg-id="Alquiler5.es" tvg-name="SP - ALQUILER 5" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 5
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69261
+#EXTINF:-1 tvg-id="Alquiler6.es" tvg-name="SP - ALQUILER 6" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 6
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69262
+#EXTINF:-1 tvg-id="" tvg-name="###### SP - HEVC #####" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SPAIN.png" group-title="EU | SPAIN",###### SP - HEVC #####
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60373
+#EXTINF:-1 tvg-id="la1.es" tvg-name="SP - LA 1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA1HD.png" group-title="EU | SPAIN",SP - LA 1 HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60351
+#EXTINF:-1 tvg-id="la2.es" tvg-name="SP - LA 2 [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="EU | SPAIN",SP - LA 2 [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60350
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="SP - ANTENA 3 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="EU | SPAIN",SP - ANTENA 3 HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60311
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="SP - CUATRO HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD-1.png" group-title="EU | SPAIN",SP - CUATRO HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60339
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="SP - TELECINCO HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TELECINCOHD.png" group-title="EU | SPAIN",SP - TELECINCO HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60289
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="SP - LA SEXTA HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LASEXTAHD.png" group-title="EU | SPAIN",SP - LA SEXTA HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60349
+#EXTINF:-1 tvg-id="" tvg-name="SP - FDF [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FDF.png" group-title="EU | SPAIN",SP - FDF [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60359
+#EXTINF:-1 tvg-id="energy.es" tvg-name="SP - ENERGY [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ENERGY.png" group-title="EU | SPAIN",SP - ENERGY [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60333
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="SP - DIVINITY [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DIVINTY.png" group-title="EU | SPAIN",SP - DIVINITY [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60334
+#EXTINF:-1 tvg-id="nova.es" tvg-name="SP - NOVA [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NOVA.png" group-title="EU | SPAIN",SP - NOVA [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60296
+#EXTINF:-1 tvg-id="neox.es" tvg-name="SP - NEOX [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NEOX.png" group-title="EU | SPAIN",SP - NEOX [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60275
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="SP - 24 HORAS [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANA24HORAS.png" group-title="EU | SPAIN",SP - 24 HORAS [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60313
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="SP - CANAL 24 HORAS [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANAL24HORAS.png" group-title="EU | SPAIN",SP - CANAL 24 HORAS [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60323
+#EXTINF:-1 tvg-id="canalsur.es" tvg-name="SP - CANAL SUR A. [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="EU | SPAIN",SP - CANAL SUR A. [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60317
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="SP - TVE INTERNACIONAL EUROPA [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="EU | SPAIN",SP - TVE INTERNACIONAL EUROPA [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60304
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="SP - CLAN TVE [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CLANTVE.png" group-title="EU | SPAIN",SP - CLAN TVE [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60345
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="SP - IBERALIA TV [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/IBERALIA.png" group-title="EU | SPAIN",SP - IBERALIA TV [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60352
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="SP - BABY TV [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BABYTV.png" group-title="EU | SPAIN",SP - BABY TV [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60306
+#EXTINF:-1 tvg-id="boing.es" tvg-name="SP - BOING [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BOING.png" group-title="EU | SPAIN",SP - BOING [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60325
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="SP - CANAL PANDA [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALPANDA.png" group-title="EU | SPAIN",SP - CANAL PANDA [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60318
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="SP - DISNEY JR [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYJR.png" group-title="EU | SPAIN",SP - DISNEY JR [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60336
+#EXTINF:-1 tvg-id="disneyxd.es" tvg-name="SP - DISNEY XD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYXD.png" group-title="EU | SPAIN",SP - DISNEY XD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60335
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="SP - DISNEY CH HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISNEYHD.png" group-title="EU | SPAIN",SP - DISNEY CH HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60337
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="SP - NICKELODEON HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NICKELODEONHD.png" group-title="EU | SPAIN",SP - NICKELODEON HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60297
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="SP - NICK JR [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NICKJR.png" group-title="EU | SPAIN",SP - NICK JR [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60273
+#EXTINF:-1 tvg-id="" tvg-name="SP - NICK/MTV [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NICKMTV.png" group-title="EU | SPAIN",SP - NICK/MTV [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60272
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="SP - ATRESERIES [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/Atreseries.png" group-title="EU | SPAIN",SP - ATRESERIES [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/131163
+#EXTINF:-1 tvg-id="amc.es" tvg-name="SP - AMC HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AMCHD.png" group-title="EU | SPAIN",SP - AMC HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60312
+#EXTINF:-1 tvg-id="axn.es" tvg-name="SP - AXN [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AXN.png" group-title="EU | SPAIN",SP - AXN [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60309
+#EXTINF:-1 tvg-id="axn.es" tvg-name="SP - AXN HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AXN.png" group-title="EU | SPAIN",SP - AXN HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60308
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="SP - CALLE 13 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CALLE13HD.png" group-title="EU | SPAIN",SP - CALLE 13 HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60324
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="SP - COSMO HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/COSMOHD.png" group-title="EU | SPAIN",SP - COSMO HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60341
+#EXTINF:-1 tvg-id="fox.es" tvg-name="SP - FOX HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FOX.png" group-title="EU | SPAIN",SP - FOX HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60358
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="SP - FOX LIFE HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FOXLIFEHD.png" group-title="EU | SPAIN",SP - FOX LIFE HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60357
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="SP - HOLLYWOOD HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/HOLLYWOODHD.png" group-title="EU | SPAIN",SP - HOLLYWOOD HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60353
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="SP - M. ACCI©N HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.ACCI%A9NHD.png" group-title="EU | SPAIN",SP - M. ACCI©N HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60346
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="SP - M. CINE ESPAÆOL [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.CINE-ESPA%C6OL.png" group-title="EU | SPAIN",SP - M. CINE ESPAÆOL [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60372
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="SP - M.CINEDOC&ROLL [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.CINEDOC%26ROLL.png" group-title="EU | SPAIN",SP - M.CINEDOC&ROLL [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60365
+#EXTINF:-1 tvg-id="mcinedocandroll.es" tvg-name="SP - M.CINEDOC&ROLL HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.CINEDOC%26ROLL.png" group-title="EU | SPAIN",SP - M.CINEDOC&ROLL HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60366
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="SP - M.COMEDIA HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.COMEDIA.png" group-title="EU | SPAIN",SP - M.COMEDIA HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60364
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="SP - M.ESTRENOS HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.ESTRENOS.png" group-title="EU | SPAIN",SP - M.ESTRENOS HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60362
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SP - SYFY HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SYFY.png" group-title="EU | SPAIN",SP - SYFY HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60291
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="SP - TCM HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TMCHD.png" group-title="EU | SPAIN",SP - TCM HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60290
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="SP - TNT HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TNTHD-1.png" group-title="EU | SPAIN",SP - TNT HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60287
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="SP -  COMEDY CENTRAL [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/comedycentralhd.png" group-title="EU | SPAIN",SP -  COMEDY CENTRAL [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60342
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="SP - AXN WHITE HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/AXNWHITE.png" group-title="EU | SPAIN",SP - AXN WHITE HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60307
+#EXTINF:-1 tvg-id="movistarpartidazo.es" tvg-name="SP - M.PARTIDAZO HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.PARTIDAZO.png" group-title="EU | SPAIN",SP - M.PARTIDAZO HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60298
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="SP - TELEDEPORTE [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TELEDEPORTE.png" group-title="EU | SPAIN",SP - TELEDEPORTE [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60288
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="SP - BLAZE [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BLAZE.png" group-title="EU | SPAIN",SP - BLAZE [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60326
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="SP - CANAL COCINA [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALCOCINA.png" group-title="EU | SPAIN",SP - CANAL COCINA [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60322
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="SP - CANAL DECASA [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALDECASA-1.png" group-title="EU | SPAIN",SP - CANAL DECASA [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60321
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="SP - CAZAYPESCA HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CAZAYPESCAHD.png" group-title="EU | SPAIN",SP - CAZAYPESCA HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60316
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="SP - CRIMEN INVES [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CRIMENINVES.png" group-title="EU | SPAIN",SP - CRIMEN INVES [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60340
+#EXTINF:-1 tvg-id="" tvg-name="SP - FOX NEWS [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/FOXNEWS.png" group-title="EU | SPAIN",SP - FOX NEWS [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60356
+#EXTINF:-1 tvg-id="#0.es" tvg-name="SP - 0 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/0TV.png" group-title="EU | SPAIN",SP - 0 HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60315
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="SP - BE MAD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="EU | SPAIN",SP - BE MAD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60329
+#EXTINF:-1 tvg-id="" tvg-name="SP - ARAGON TV INT [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="EU | SPAIN",SP - ARAGON TV INT [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60310
+#EXTINF:-1 tvg-id="" tvg-name="SP - CANAL ODISEA [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALODISEA.png" group-title="EU | SPAIN",SP - CANAL ODISEA [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60320
+#EXTINF:-1 tvg-id="" tvg-name="SP - CLASSICA [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CLASSICA-1.png" group-title="EU | SPAIN",SP - CLASSICA [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60344
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="SP - M. DRAMA HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.DRAMA.png" group-title="EU | SPAIN",SP - M. DRAMA HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60369
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="SP - M. SERIES HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.SERIES.png" group-title="EU | SPAIN",SP - M. SERIES HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60367
+#EXTINF:-1 tvg-id="movistarseriesmania.es" tvg-name="SP - M.SERIESMANIA HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.SERIESMANIA.png" group-title="EU | SPAIN",SP - M.SERIESMANIA HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60286
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="SP - MEZZO [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MEZZOLIVEHD.png" group-title="EU | SPAIN",SP - MEZZO [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60285
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="SP - MEZZO LIVE HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MEZZOLIVEHD.png" group-title="EU | SPAIN",SP - MEZZO LIVE HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60284
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="SP - MTV [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTV.png" group-title="EU | SPAIN",SP - MTV [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60283
+#EXTINF:-1 tvg-id="" tvg-name="SP - MTV DANCE [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTV.png" group-title="EU | SPAIN",SP - MTV DANCE [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60282
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="SP - MTV ESPA¹A [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTV.png" group-title="EU | SPAIN",SP - MTV ESPA¹A [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60281
+#EXTINF:-1 tvg-id="" tvg-name="SP - MTV HITS [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTV.png" group-title="EU | SPAIN",SP - MTV HITS [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60280
+#EXTINF:-1 tvg-id="" tvg-name="SP - MTV ROCKS [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MTV.png" group-title="EU | SPAIN",SP - MTV ROCKS [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60278
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="SP - DISCOVERY [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/DISCOVERY.png" group-title="EU | SPAIN",SP - DISCOVERY [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60338
+#EXTINF:-1 tvg-id="historia.es" tvg-name="SP - HISTORIA [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/HISTORIA.png" group-title="EU | SPAIN",SP - HISTORIA [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60354
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="SP - NAT GEO HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NATGEOHD.png" group-title="EU | SPAIN",SP - NAT GEO HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60277
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="SP - NAT GEO WILD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NATGEOWILD.png" group-title="EU | SPAIN",SP - NAT GEO WILD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60276
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="SP - NAT GEO WILD HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/NATGEOWILD.png" group-title="EU | SPAIN",SP - NAT GEO WILD HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60274
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="SP - PARAMOUNT [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/PARAMOUNT.png" group-title="EU | SPAIN",SP - PARAMOUNT [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60295
+#EXTINF:-1 tvg-id="" tvg-name="SP - VH1 [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/VH1.png" group-title="EU | SPAIN",SP - VH1 [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60302
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="SP - VIAJAR HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/VIAJARHD.png" group-title="EU | SPAIN",SP - VIAJAR HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60301
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="SP - #VAMOS HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/%23VAMOS.png" group-title="EU | SPAIN",SP - #VAMOS HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60314
+#EXTINF:-1 tvg-id="canalorbe21.es" tvg-name="SP - CANAL ORBE21 [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALORBE21.png" group-title="EU | SPAIN",SP - CANAL ORBE21 [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60319
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SP - SUNDANCE TV [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/SUNDANCE.png" group-title="EU | SPAIN",SP - SUNDANCE TV [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60292
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="SP - TVGA [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVGA.png" group-title="EU | SPAIN",SP - TVGA [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/60303
+#EXTINF:-1 tvg-id="" tvg-name="SP - ALQUILER 11" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 11
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/75162
+#EXTINF:-1 tvg-id="" tvg-name="SP - ALQUILER 12" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 12
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/75163
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="SP - BAR TV [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BARTV.png" group-title="EU | SPAIN",SP - BAR TV [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76569
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="SP - EUROSPORT 1 [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EU | SPAIN",SP - EUROSPORT 1 [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76570
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="SP - EUROSPORT1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EU | SPAIN",SP - EUROSPORT1 HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76571
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="SP - EUROSPORT 2 [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EU | SPAIN",SP - EUROSPORT 2 [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76572
+#EXTINF:-1 tvg-id="gol.es" tvg-name="SP - GOL [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/GOL0.png" group-title="EU | SPAIN",SP - GOL [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76691
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="SP - LA LIGA TV BAR [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LALIGATVHD.png" group-title="EU | SPAIN",SP - LA LIGA TV BAR [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76695
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="SP - LALIGA123 TV [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LALIGA123TV-1.png" group-title="EU | SPAIN",SP - LALIGA123 TV [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76715
+#EXTINF:-1 tvg-id="beinlaliga.es" tvg-name="SP - BEIN LALIGA HD [HEVC]" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/BEIN-SPORTS-1.png" group-title="EU | SPAIN",SP - BEIN LALIGA HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76714
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="SP - BEINLALIGA1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/AUSTRALIA/BEIN-SPORTS-1.png" group-title="EU | SPAIN",SP - BEINLALIGA1 HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76700
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="SP - MOTOGP [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/MOTOGPHD.png" group-title="EU | SPAIN",SP - MOTOGP [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76697
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="SP - M.FORMULA1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.FORMULA1.png" group-title="EU | SPAIN",SP - M.FORMULA1 HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76701
+#EXTINF:-1 tvg-id="toros.es" tvg-name="SP - TOROS HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TOROSHD.png" group-title="EU | SPAIN",SP - TOROS HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76704
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="SP - M L CAMPEONES [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.LCAMPEONES.png" group-title="EU | SPAIN",SP - M L CAMPEONES [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76707
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="SP - M. GOLF HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.GOLF.png" group-title="EU | SPAIN",SP - M. GOLF HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76709
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="SP - M.DEPORTES1 HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.DEPORTES1.png" group-title="EU | SPAIN",SP - M.DEPORTES1 HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76712
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="SP - R.MADRID TV [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/R.MADRID.png" group-title="EU | SPAIN",SP - R.MADRID TV [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76713
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="SP - M. DEPORTES HD [HEVC]" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.DEPORTES1HD.png" group-title="EU | SPAIN",SP - M. DEPORTES HD [HEVC]
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76717
+#EXTINF:-1 tvg-id="" tvg-name="SP - ALQUILER 7" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 7
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69263
+#EXTINF:-1 tvg-id="" tvg-name="SP - ALQUILER 8" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 8
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69264
+#EXTINF:-1 tvg-id="" tvg-name="SP - ALQUILER 9" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 9
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69265
+#EXTINF:-1 tvg-id="" tvg-name="SP - ALQUILER 10" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ALQUILER.png" group-title="EU | SPAIN",SP - ALQUILER 10
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/69266
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="SP - M. DEPORTE 1 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/M.DEPORTES1HD.png" group-title="EU | SPAIN",SP - M. DEPORTE 1 HD
+http://tvservice.pro:80/ja1002y04tv/JeEMjTFkZwVsRo0/76716
+
